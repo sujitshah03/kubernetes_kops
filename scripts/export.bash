@@ -19,7 +19,7 @@ ZONES=${ZONES%?}
 echo $ZONES
 
 # Must change: Your domain name that is hosted in AWS Route 53
-export DOMAIN_NAME="learnix.in"
+export DOMAIN_NAME="supersujit.com"
 
 # Friendly name to use as an alias for your cluster
 export CLUSTER_ALIAS="k8sintelycore"
